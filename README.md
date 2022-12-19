@@ -20,3 +20,7 @@ Analizar los concepos e identificar circuitos en serie-paralelo con la finalidad
 
 # MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/116813974/208524079-fda25954-f630-4bdf-aea1-c4afee7d5ff1.png)
+
+
+
