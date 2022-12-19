@@ -12,7 +12,7 @@ Materia: Fundamentos de Circuitos Eléctricos
 
 Analizar los concepos e identificar circuitos en serie-paralelo con la finalidad de resolver problemas y ejercicios . 
 
-###Objetivo específico
+### Objetivo específico
 
 * Determinar correctamente las fórmulas de la ley de ohm para resolver el problema dado
 
