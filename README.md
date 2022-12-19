@@ -22,6 +22,9 @@ Analizar los concepos e identificar circuitos en serie-paralelo con la finalidad
 
 ![image](https://user-images.githubusercontent.com/116813974/208524079-fda25954-f630-4bdf-aea1-c4afee7d5ff1.png)
 
+![image](https://user-images.githubusercontent.com/116813974/208541650-a713b1b4-7bd0-43ac-9354-b1df3f2ccfa9.png)
+
+![image](https://user-images.githubusercontent.com/116813974/208541698-2e1f0c76-3028-44e0-853c-a16e1b88bf1c.png)
 
 # Ejercicios 
 
