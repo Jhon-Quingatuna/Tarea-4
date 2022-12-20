@@ -2,7 +2,7 @@
 
 Nombre: Jhon Quingatuña
 
-Fecha: 19/12/2022
+Fecha: 20/12/2022
 
 NRC: 10063
 
