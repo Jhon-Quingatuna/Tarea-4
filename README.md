@@ -339,7 +339,7 @@ Conversiones delta a Y (D a Y) y Y a D
 
 # Video
 
-
+https://youtu.be/a_m0H-KHSvY
 
 # Conclusiones 
 
